@@ -1,0 +1,18 @@
+<config>
+    <dictionary>
+        <entry name="server">
+            <dictionary>
+                <entry name="data" value="14112024"/>
+                <entry name="port" value="8080"/>
+                <entry name="ssl">
+                    <dictionary>
+                        <entry name="enabled" value="1"/>
+                    </dictionary>
+                </entry>
+            </dictionary>
+        </entry>
+        <entry name="max_connections" value="100"/>
+    </dictionary>
+    <define name="timeout" value="30"/>
+    <expression value="timeout 10 +"/>
+</config>

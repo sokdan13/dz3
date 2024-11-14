@@ -1,0 +1,4 @@
+<config>
+    <define name="negative_value" value="-10"/>
+    <expression value="negative_value abs"/>
+</config>
