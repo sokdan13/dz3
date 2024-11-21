@@ -121,7 +121,8 @@ xml_path (str): Путь к XML-файлу.
 
 Код XML:
 
-![image](https://github.com/user-attachments/assets/c955c6b8-8655-4925-a1a2-ca528fabe8e7)
+![image](https://github.com/user-attachments/assets/da3ea50b-dceb-43d8-906f-80ad3d73fba2)
+
 
 Учебный конфигурационный язык:
 
